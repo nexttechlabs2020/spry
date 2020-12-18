@@ -1,0 +1,367 @@
+body {
+  font-family: 'Rubik';
+}
+
+.primary-overlay {
+  background: rgba(112, 81, 176, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.main-showcase {
+  background: url(../img/Assets/1x/Desktop/Hero-Photo-D-1x.png);
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+  color: #fff;
+}
+
+.show {
+  margin-top: 110px;
+}
+
+.main-header .showcase {
+  padding-top: 100px;
+}
+
+.main-header-inner {
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+  color: #fff;
+}
+
+.main-header-inner .showcase {
+  padding-top: 50px;
+}
+
+.active-link {
+  color: #d847f1;
+  font-weight: bold;
+}
+
+.section-developers {
+  position: relative;
+  background: url(../img/code.jpg);
+  background-size: cover;
+  background-position: center;
+  border-top: #333 solid 5px;
+  border-bottom: #333 solid 5px;
+  min-height: 160px;
+}
+
+.section-podcast {
+  position: relative;
+  background: url(../img/circuit.jpg);
+  background-size: cover;
+  background-position: center;
+  border-top: #333 solid 5px;
+  border-bottom: #333 solid 5px;
+  min-height: 160px;
+}
+
+.section-podcast a {
+  margin-top: 30px;
+}
+
+.section-podcast .primary-overlay {
+  background: rgba(112, 81, 176, 0.9);
+}
+
+.carousel-item p {
+  font-size: 20px !important;
+}
+
+.tabs .indicator {
+  background-color: #6a1b9a !important;
+}
+
+.btn-extend {
+  display: block;
+  width: 100%;
+}
+
+@media (max-width: 500px) {
+  .section-developers,
+  .section-podcast {
+    min-height: 240px;
+  }
+
+  .ipad-img{
+    height: 550px !important;
+    background-position: left !important;
+  }
+.social{
+display: flex;
+justify-content: space-evenly;
+
+ }
+.llc{
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  margin-bottom: 30px !important;
+  padding-top: -23px !important;
+  margin-left: 120px !important;
+}
+
+.icons {
+  width: 50px;
+  margin-left: 45%;
+}
+
+.padding-top-40 {
+  padding-top: 40px;
+}
+
+
+
+
+
+  .hero-1 {
+   margin-top: 0px !important;
+  
+  }
+  img.computer.responsive-img{
+    width: 100% !important;
+    margin: 0px !important; 
+    margin-left: 40px !important;
+  }
+.iphone {
+  width: 100% !important;
+  margin: 0px !important; 
+ 
+  }  
+  .payments {
+    margin-top: -50px !important;
+  
+  }
+  .NIL
+{
+width: 200px !important;
+}
+    img.responsive-img {
+      width: 100%;
+    }
+
+    .transparency {
+      width: 300px;
+      align-items: center;
+ 
+    }
+
+    .ipad-img {
+
+      margin-bottom: -120px !important;
+    }
+  
+  .ipad-img {
+    background:white !important;
+  }
+  .p.flow-text.first-p.left{
+    text-align: left !important;
+    width: 100%;
+  }
+  .ease-flex{
+    margin: 0px !important;
+    margin-bottom: 10px !important;
+  }
+  img {
+  
+    margin: 0px !important; 
+  }
+  .first {
+    margin-top: -50px !important;
+  }
+  .NIL-Compliance {
+  
+  }
+}
+
+nav ul a {
+  color: #17A1FB;
+}
+
+nav .brand-logo {
+  color: #17A1FB;
+}
+
+.first {
+  padding-top: 50px;
+}
+.ease-flex {
+  margin-top: 50px;
+  margin-inline-start: 50px;
+}
+
+p.first-p {
+ 
+width: 100%;
+text-align: left;
+}
+
+.payments {
+  margin-top: 50px;
+}
+
+.NIL-Compliance {
+  padding-top: 70px;
+}
+img.responsive-img {
+width: 100%;
+
+}
+
+img.responsive-img.ipad {
+width: 1500px !important;
+height: 700px;
+
+}
+
+.ease {
+  height: 600px;
+}
+
+img.ease {
+  width: 100%;
+}
+
+.section-iphone {
+  height: 600px;
+}
+
+
+.ipad-img {
+  background: url(../img/Assets/1x/Desktop/IPad\ image-D-1x.png);
+  background-position: right;
+  background-repeat: no-repeat;
+}
+img.computer {
+width: 663px;
+
+}
+
+
+
+.white {
+  color: white;
+}
+
+.section-contact {
+  background-color: #000050 !important;
+  height: 450px;
+}
+
+.section-empty {
+  background-color: #f5f5f5 !important;
+  height: 70px;
+}
+
+.btn {
+  background-color: #17A1FB !important;
+  width: 100px !important;
+  height: 41px !important;
+}
+
+.contact {
+  margin-top: 50px;
+}
+
+a .fab {
+  color: #000050 !important;
+}
+
+nav ul a {
+  color: #003292;
+}
+
+._footer {
+  display: inline;
+}
+
+
+HTML CSSResult Skip Results Iframe
+EDIT ON
+.quotation{
+  font-size: 30px;
+  quotes: "\201C""\201D""\2018""\2019";
+  padding: 10px 20px;
+  line-height: 1.4;
+  font-size: 25px;
+  border-left: 0px !important;
+}
+
+.quotation:before {
+  content: open-quote;
+  display: inline;
+  height: 0;
+  line-height: 0;
+  left: -10px;
+  position: relative;
+  top: 30px;
+  color: #ccc;
+  font-size: 3em;
+}
+.quotation::after {
+  content: close-quote;
+  display: inline;
+  height: 0;
+  line-height: 0;
+  left: 10px;
+  position: relative;
+  top: 35px;
+  color: #ccc;
+  font-size: 3em;
+}
+footer{
+  margin:0;
+  text-align: right;
+  font-size: 1.5em;
+  font-style: italic;
+}
+
+input.select-dropdown {
+color: black !important;
+}
+
+.modal {
+  height: 550px;
+
+  color: #000050;
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (-webkit-min-device-pixel-ratio: 1) { 
+  img.left.responsive-img.iphone {
+    padding-right: 250px !important;
+  }
+  img.computer{
+    width: 500px;
+    margin-top: 50px !important;
+  }
+.ease-flex {
+  margin-top: -15px;
+}
+
+.ease-img {
+  margin-top: 100px;
+}
+  
+}
+
+.social {
+  margin-left: 150px;
+}
+
+.llc {
+  margin-right: 80px;
+}
